@@ -1,0 +1,7 @@
+{"_events":{},
+"_eventsCount":0,
+"_server":{"_events":{},"_eventsCount":5,"_connections":0,"_handle":{"reading":false},"_usingWorkers":false,"_workers":[],"_unref":false,"allowHalfOpen":true,"pauseOnConnect":false,"httpAllowHalfOpen":false,"timeout":0,"keepAliveTimeout":5000,"maxHeadersCount":null,"headersTimeout":60000,"_connectionKey":"6::::8080"},
+"clients":{},
+"_shouldEmitClose":false,
+"options":{"allowSynchronousEvents":true,"autoPong":true,"maxPayload":104857600,"skipUTF8Validation":false,"perMessageDeflate":false,"handleProtocols":null,"clientTracking":true,"verifyClient":null,"noServer":false,"backlog":null,"server":null,"host":null,"path":null,"port":8080},
+"_state":0}
